@@ -1,0 +1,14 @@
+{
+    "name": "unity.onmind_volumeselector",
+    "rootNamespace": "OnmindVolumeSelector",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

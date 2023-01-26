@@ -1,0 +1,18 @@
+{
+  "name": "com.onmind_volumeselector.package",
+  "version": "0.1.0",
+  "displayName": "Onmind VolumeSelector",
+  "description": "\uc628\ub9c8\uc778\ub4dc\uc6a9 \ubcfc\ub968\uc140\ub809\ud130 \uc5d0\uc14b\uc785\ub2c8\ub2e4.",
+  "unity": "2022.2",
+  "author": {
+    "name": "Onmind",
+    "email": "mtmyou@onmind-inc.com"
+  },
+  "samples": [
+    {
+      "displayName": "Samples Scene",
+      "description": "기본 볼륨셀렉터 샘플씬",
+      "path": "Samples~/SampleScene"
+    }
+  ]
+}
